@@ -1,38 +1,39 @@
-# Marco Perez-Gonzalez - Portfolio
+# Marco Perez-Gonzalez | Portfolio
 
-Personal portfolio for a UW Tacoma B.A. Computer Science & Systems student with a minor in Technical Communication.
+Personal portfolio for a University of Washington Tacoma B.A. Computer Science & Systems student with a minor in Technical Communication.
 
-## Faculty review draft
+**Website: https://marco-pg.github.io/**
 
-This branch contains the portfolio draft. **Faculty feedback has not yet been received. Do not merge into `main` until that feedback is recorded and incorporated.** GitHub Pages already deploys from `main` at the repository root; committing this branch does not publish the new website.
+## Portfolio content
 
-## Contents
-
-- `index.html`: responsive, accessible portfolio with introduction, about, three project entries, skills/coursework, experience, resume, and contact sections. Styles and concept illustrations are included in the HTML; no external dependencies or build step.
-- `resume.pdf`: one-page public resume based on the existing resume and verified coursework. Phone number and ZIP code omitted with permission.
-- `FACULTY_REVIEW.md`: review and publication checklist.
-
-## Preview
-
-Download this branch with **Code - Download ZIP**, extract it, and open `index.html` in Chrome. Keep `resume.pdf` beside it. This allows faculty to review the actual site before publication.
+- Introduction and professional interests
+- Education, background, and career goals
+- Three project entries with technologies, challenges, learnings, and labeled concept visuals
+- Technical skills and relevant coursework
+- H&M, City of Tacoma IT internship, and Metro Parks Tacoma experience
+- Public one-page PDF resume
+- Professional email and GitHub links
 
 ## Projects
 
-1. Road Rage vehicle inheritance - TCSS 305 coursework, in progress.
+1. Road Rage vehicle inheritance - Java coursework, in progress.
 2. Java Swing interface experiments - GUI practice, in progress.
-3. How Large Language Models Work - TWRT 291 technical report.
+3. How Large Language Models Work - technical communication report.
 
-The illustrations are labeled concept diagrams or mockups. They are not application screenshots. Project source/report files are not currently linked because no public project URLs were verified. Add approved repositories and actual screenshots as the work develops; check course sharing rules before uploading assignment solutions.
+Project source and report links can be added as shareable versions become available. Illustrations are labeled as concept diagrams or mockups rather than application screenshots.
 
-## Publish after faculty review
+## Files and hosting
 
-1. Show the local portfolio preview to faculty and complete `FACULTY_REVIEW.md`.
-2. Incorporate feedback and verify the resume/contact details.
-3. Merge the review pull request into `main`.
-4. In **Settings - Pages**, retain **Deploy from a branch - main - / (root)**.
-5. Check the Pages deployment in **Actions**, then visit https://marco-pg.github.io/.
-6. Test navigation, resume, email, GitHub links, and narrow-screen layout on the live website.
+- `index.html`: website, responsive CSS, and inline SVG illustrations.
+- `resume.pdf`: public resume; phone number and ZIP code omitted.
+- `FACULTY_REVIEW.md`: assignment feedback checklist. Initial faculty feedback has not been completed.
 
-## Maintain each quarter
+Built with HTML and CSS, with no external assets or build dependencies. GitHub Pages publishes from `main` at `/ (root)` with HTTPS enabled. Changes committed to `main` trigger a Pages deployment.
 
-Update project descriptions, status, screenshots, and links. Keep internship availability, education, experience, resume, and copyright year current. LinkedIn may be added once the exact profile URL is supplied.
+## Local preview
+
+Download the repository ZIP, extract it, and open `index.html` in Chrome. Keep `resume.pdf` beside the HTML file.
+
+## Updates
+
+Update projects each quarter and keep skills, experience, internship availability, and resume current. Add LinkedIn once the exact profile URL is available.
