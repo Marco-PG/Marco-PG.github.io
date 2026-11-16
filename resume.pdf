@@ -1,0 +1,74 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3723 >>
+stream
+BT /F2 22 Tf 0.08 0.17 0.21 rg 48 745 Td (MARCO PEREZ-GONZALEZ) Tj ET
+BT /F1 11 Tf 0.08 0.17 0.21 rg 48 723 Td (Computer Science & Systems | UW Tacoma) Tj ET
+BT /F1 9 Tf 0.08 0.17 0.21 rg 48 704 Td (Tacoma, WA | marcojperezgonzalez@gmail.com | github.com/Marco-PG) Tj ET
+BT /F2 11 Tf 0.08 0.17 0.21 rg 48 672 Td (SUMMARY) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 655 Td (Computer Science & Systems student with experience in IT support, PC imaging, and) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 641 Td (hardware/software troubleshooting. Developing skills in Java, Python, and technical writing.) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 627 Td (Seeking a Summer 2027 software development internship.) Tj ET
+BT /F2 11 Tf 0.08 0.17 0.21 rg 48 599 Td (EDUCATION) Tj ET
+BT /F2 11 Tf 0.08 0.17 0.21 rg 48 581 Td (University of Washington Tacoma) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 565 Td (B.A. Computer Science & Systems | Minor: Technical Communication) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 551 Td (2024-present | Expected graduation: Summer 2028) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 537 Td (Coursework: Object-Oriented Programming; Technical Communication;) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 523 Td (Programming Practicum and Discrete Structures \(in progress\).) Tj ET
+BT /F2 11 Tf 0.08 0.17 0.21 rg 48 496 Td (TECHNICAL SKILLS) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 478 Td (Java, Python, JUnit fundamentals, IntelliJ IDEA, Swing fundamentals \(in progress\)) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 464 Td (Windows, PC imaging, hardware/software troubleshooting, Microsoft Office, Excel) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 450 Td (Technical writing, user support, problem solving, collaboration) Tj ET
+BT /F2 11 Tf 0.08 0.17 0.21 rg 48 423 Td (SELECTED PROJECTS) Tj ET
+BT /F2 10 Tf 0.08 0.17 0.21 rg 48 405 Td (Road Rage | Java coursework, TCSS 305 | In progress) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 390 Td (- Working on abstract vehicle state, inheritance, interfaces, and behavior tests.) Tj ET
+BT /F2 10 Tf 0.08 0.17 0.21 rg 48 370 Td (Java Swing Experiments | Independent practice | In progress) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 355 Td (- Exploring windows, labels, images, buttons, and event listeners.) Tj ET
+BT /F2 10 Tf 0.08 0.17 0.21 rg 48 335 Td (How Large Language Models Work | TWRT 291 technical report) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 320 Td (- Explaining a complex computing topic for a non-specialist audience.) Tj ET
+BT /F2 11 Tf 0.08 0.17 0.21 rg 48 291 Td (EXPERIENCE) Tj ET
+BT /F2 10 Tf 0.08 0.17 0.21 rg 48 273 Td (H&M | Sales Associate | Tacoma, WA | June 2025-present) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 258 Td (- Assist customers, promote loyalty enrollment, and support store operations.) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 244 Td (- Consistently rank in the top 3 for loyalty performance with weekly scores of 80%+.) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 230 Td (- Collaborate on merchandising, replenishment, and fitting-room operations.) Tj ET
+BT /F2 10 Tf 0.08 0.17 0.21 rg 48 207 Td (City of Tacoma | IT Intern | Tacoma, WA | February-June 2023) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 192 Td (- Imaged and configured PCs for deployment across city departments.) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 178 Td (- Diagnosed hardware/software issues and tracked equipment data in Excel.) Tj ET
+BT /F2 10 Tf 0.08 0.17 0.21 rg 48 155 Td (Metro Parks Tacoma | Club Manager | February-June 2023) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 140 Td (- Led a basketball club at Baker Middle School, encouraging teamwork.) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.21 rg 48 126 Td (- Organized and coached passing, shooting, dribbling, and team-play drills.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Title (Marco Perez-Gonzalez - Public Resume) /Author (Marco Perez-Gonzalez) >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+0000004170 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 7 0 R >>
+startxref
+4268
+%%EOF
