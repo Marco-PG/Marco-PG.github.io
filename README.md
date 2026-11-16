@@ -8,8 +8,8 @@ This branch contains the portfolio draft. **Faculty feedback has not yet been re
 
 ## Contents
 
-- `index.html`: responsive, accessible portfolio with introduction, about, three project entries, skills/coursework, experience, r-sum-, and contact sections. Styles and concept illustrations are included in the HTML; no external dependencies or build step.
-- `resume.pdf`: one-page public r-sum- based on the existing r-sum- and verified coursework. Phone number and ZIP code omitted with permission.
+- `index.html`: responsive, accessible portfolio with introduction, about, three project entries, skills/coursework, experience, resume, and contact sections. Styles and concept illustrations are included in the HTML; no external dependencies or build step.
+- `resume.pdf`: one-page public resume based on the existing resume and verified coursework. Phone number and ZIP code omitted with permission.
 - `FACULTY_REVIEW.md`: review and publication checklist.
 
 ## Preview
@@ -27,12 +27,12 @@ The illustrations are labeled concept diagrams or mockups. They are not applicat
 ## Publish after faculty review
 
 1. Show the local portfolio preview to faculty and complete `FACULTY_REVIEW.md`.
-2. Incorporate feedback and verify the r-sum-/contact details.
+2. Incorporate feedback and verify the resume/contact details.
 3. Merge the review pull request into `main`.
 4. In **Settings - Pages**, retain **Deploy from a branch - main - / (root)**.
 5. Check the Pages deployment in **Actions**, then visit https://marco-pg.github.io/.
-6. Test navigation, r-sum-, email, GitHub links, and narrow-screen layout on the live website.
+6. Test navigation, resume, email, GitHub links, and narrow-screen layout on the live website.
 
 ## Maintain each quarter
 
-Update project descriptions, status, screenshots, and links. Keep internship availability, education, experience, r-sum-, and copyright year current. LinkedIn may be added once the exact profile URL is supplied.
+Update project descriptions, status, screenshots, and links. Keep internship availability, education, experience, resume, and copyright year current. LinkedIn may be added once the exact profile URL is supplied.
